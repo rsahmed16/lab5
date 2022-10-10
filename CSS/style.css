@@ -12,12 +12,6 @@ body { /* Text body */
     width: 800px
 	height: 400px;
 }
-h1 {
-    font-family: "Dancing Script";
-    font-size: 80px;
-    color: aqua;
-    text-align: center;
-}
 /* PLANET IMAGES STYLING */
 .planetImageRow {
     padding-bottom: 20px;
