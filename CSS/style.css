@@ -1,7 +1,7 @@
 body { /* Text body */
     display: block;
     background-color: DarkSlateGrey;
-    background-image: url("../planets/background.jpeg");
+    background-image: url("../planets/background.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
     color: aqua;
