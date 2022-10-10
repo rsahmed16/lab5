@@ -9,7 +9,8 @@ body { /* Text body */
 .background-image {
     background-image: url("background.jpg");
     background-repeat: no-repeat;
-    height: 200px;
+    width: 800px
+	height: 400px;
 }
 h1 {
     font-family: "Dancing Script";
