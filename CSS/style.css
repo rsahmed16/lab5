@@ -7,7 +7,7 @@ body { /* Text body */
     font-family: "American Typewriter";
 }
 .background-image {
-    background-image: url("background.jpg");
+	background-image: url("planets/background.jpg");
     background-repeat: no-repeat;
     width: 800px
 	height: 400px;
