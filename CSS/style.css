@@ -1,13 +1,13 @@
 body { /* Text body */
     display: block;
     background-color: DarkSlateGrey;
-    background-size: cover;
+    background-image: url("planets/background.jpg");
+	background-size: cover;
     background-repeat: no-repeat;
     color: aqua;
     font-family: "American Typewriter";
 }
 .background-image {
-	background-image: url("planets/background.jpg");
     background-repeat: no-repeat;
     width: 800px
 	height: 400px;
